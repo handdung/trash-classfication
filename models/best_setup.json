@@ -1,0 +1,15 @@
+{
+ "models": [
+  "final_cnn_s42.pt",
+  "final_aug_s7.pt",
+  "final_lr_s42.pt",
+  "final_lr_s7.pt"
+ ],
+ "tta": false,
+ "val_acc": 0.9186746987951807,
+ "val_lr_acc": 0.9018932874354562,
+ "score": 0.9102839931153184,
+ "test_acc": 0.8950086058519794,
+ "test_lr_acc": 0.882960413080895,
+ "selection": "0.5 x 선명 검증 + 0.5 x 흐린 검증"
+}
